@@ -1,0 +1,13 @@
+{
+  "name": "basic-cypress",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "integration": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^1.2.0",
+    "express": "^4.16.2"
+  }
+}
